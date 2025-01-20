@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://jeewa@172.232.118.182:22/home/jeewa/remote_storage
